@@ -2757,7 +2757,7 @@ h3 {
                 a {
                     padding: 15px 20px;
                     display: block;
-                    border-left: 2px solid #ff7209;
+                    border-left: 2px solid #ff0909;
                     position: relative;
                     border-bottom: 1px dashed #dddddd;
                     font-size: 18px;
@@ -2773,7 +2773,7 @@ h3 {
                     }
 
                     &:hover {
-                        background:#fe6219;
+                        background:#ad0a0a;
                         color: $white-color;
                     }
                 }
@@ -2824,7 +2824,7 @@ h3 {
             text-align: center;
 
             &:hover {
-                background:#fe6219;
+                background:#d1380e;
                 color: $white-color;
             }
         
@@ -3369,7 +3369,7 @@ h3 {
             position: relative;
 
             input {
-                border:1px solid #fe6a12;
+                border:1px solid #aa0e0e;
                 padding: 10px 20px;
                 width: 100%;
 
