@@ -3922,3 +3922,16 @@ h3 {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+ /* Style for the container */
+ .side-by-side-container {
+  display: flex;
+}
+
+/* Style for each individual list */
+.list {
+  flex: 1;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ff9393;
+}
