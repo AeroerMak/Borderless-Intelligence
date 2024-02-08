@@ -3944,3 +3944,8 @@ h3 {
     flex-basis: 100%; /* Make each list take up the full width on smaller screens */
   }
 }
+
+
+.no-animation {
+  animation: none !important;
+}
